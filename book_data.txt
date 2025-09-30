@@ -1,0 +1,46 @@
+Total books found: 1000
+Average price of all books: 35.0703
+Minimum book price: 10
+Maximum book price: 59.99
+Books with 5-star rating: 196
+Total stock: 8585, average availability: 8
+Crawling completed. Visited 1101 unique URLs.
+Time taken: 5034 miliseconds.
+Category: poetry, Results: 19
+Category: classics, Results: 19
+Category: sports-and-games, Results: 5
+Category: science-fiction, Results: 16
+Category: humor, Results: 10
+Category: christian, Results: 3
+Category: erotica, Results: 1
+Category: psychology, Results: 7
+Category: paranormal, Results: 1
+Category: music, Results: 13
+Category: new-adult, Results: 6
+Category: contemporary, Results: 3
+Category: adult-fiction, Results: 1
+Category: art, Results: 8
+Category: philosophy, Results: 11
+Category: academic, Results: 1
+Category: spirituality, Results: 6
+Category: novels, Results: 1
+Category: religion, Results: 7
+Category: politics, Results: 3
+Category: biography, Results: 5
+Category: short-stories, Results: 1
+Category: self-help, Results: 5
+Category: christian-fiction, Results: 6
+Category: historical, Results: 2
+Category: horror, Results: 17
+Category: travel, Results: 11
+Category: crime, Results: 1
+Category: suspense, Results: 1
+Category: science, Results: 14
+Category: cultural, Results: 1
+Category: parenting, Results: 1
+Category: business, Results: 12
+Category: womens-fiction, Results: 17
+Category: autobiography, Results: 9
+Category: health, Results: 4
+Category: thriller, Results: 11
+Category: history, Results: 18
